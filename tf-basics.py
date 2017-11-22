@@ -55,4 +55,4 @@ with tf.Session() as sess:
     # result = sess.run(result)
     # Using other tf syntax for example purposes
     result = result.eval()
-    print(result)
+print(result)
